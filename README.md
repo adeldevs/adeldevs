@@ -4,7 +4,6 @@
 
 # 💫 About Me:
 #### My Name is Adel 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sree_dee_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sreedeep-Pradeep ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeldevs87gmail.com) <br/>
 
 
 ## Ho Noo Watch This 🐍 Will Eating My Commits .
